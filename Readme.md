@@ -1,0 +1,1 @@
+- Para correr el proyecto es necesario tener instalado PostgreSQL con una con una base de datos creada siguiendo la configuración especificada en /config/config.json
